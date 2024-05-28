@@ -1,0 +1,44 @@
+body {background-color: #e228b4;}
+h1, h2, h3, h4 {color: aliceblue;}
+.p1 {font-size: 200%;
+    text-align: center;
+    border-color: #9845e6;
+    border-width: 6px;
+    border-style: groove;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #9845e6;
+    padding-top: 1%;
+    padding-bottom: 1%;}
+
+    .p2 {font-size: 150%;
+    text-align:center;
+    border-color: aqua;
+    border-width: 6px;
+    border-style: groove;
+    margin-left: 20%;
+    margin-right: 55%;
+    background-color: hsl(271, 82%, 50%);
+    padding-top: 1%;}
+
+.p3 {font-size: 220;
+    text-align: center;
+    border-color: hsl(239, 78%, 52%);
+    border-width: 6px;
+    border-style: groove;
+    margin-left: 60%;
+    margin-right: 20%;
+    background-color: hsl(187, 78%, 58%);
+    padding-top: 1%;
+    padding-bottom: 1%;}
+
+
+.p4 {font-size: 200;
+    text-align: center;
+    border-color: hsl(0, 78%, 48%);
+    border-width: 6px;
+    border-style: groove;
+    margin-left: 35%;
+    margin-right: 35%;
+    background-color: hsl(7, 76%, 59%);
+padding-top: 1% }
